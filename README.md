@@ -44,6 +44,8 @@
 
 - [FileMover_V2.1](https://github.com/WXVaaHVvaGFuZw/FileMover/releases/tag/FileMover_V2.1)
 
+- [FileMover_V2.1.1](https://github.com/WXVaaHVvaGFuZw/FileMover/releases/tag/FileMover_V2.1.1)
+ 
 - [FileMover_V2.2](https://github.com/WXVaaHVvaGFuZw/FileMover/releases/tag/FileMover_V2.2)
 
 推荐使用V2.1或V2.2版本
